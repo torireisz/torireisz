@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi there! 👋 I’m Tori Reisz
 
-<!--
-**torireisz/torireisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Science and Psychology student at Northeastern University, interested in using data,
+research, and analysis to better understand people and real-world systems.
+I enjoy combining technical skills with communication, leadership, and research-driven thinking.
 
-Here are some ideas to get you started:
+ 🧰 Technologies & Tools
+- Python (pandas, scikit-learn)
+- Data analysis & visualization
+- Spyder, Jupyter Notebook
+- Microsoft Office, Google Workspace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interests
+- Data science & behavioral research
+- Mental health and human-centered analysis
+- Communication, debate, and teaching
+- Exploring how data informs real-world decision-making
+
+💼 Experience & Leadership
+Vice President of Novice Development — Northeastern Debate Society  
+- Lead weekly training sessions for 40+ first-year debaters  
+- Design curriculum on argument construction, logical warranting, and refutation  
+- Judge and mentor across collegiate tournaments  
+
+President — Highschool Mental Health Awareness Club   
+- Created weekly discussion spaces and campus initiatives focused on wellness  
+
+Highschol Speech & Debate Captain  
+- Top 16 National Speech & Debate Tournament (2024)  
+
+ 🔗 Let’s Connect!
+- LinkedIn: https://linkedin.com/in/torireisz
