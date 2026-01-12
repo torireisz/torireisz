@@ -31,3 +31,5 @@ Peer Tutor — National Honor Society
 
  🔗 Let’s Connect!
 - LinkedIn: https://linkedin.com/in/torireisz
+- Email: reisz.v@northeastern.edu
+
