@@ -25,8 +25,9 @@ Vice President of Novice Development — Northeastern Debate Society
 President — Highschool Mental Health Awareness Club   
 - Created weekly discussion spaces and campus initiatives focused on wellness  
 
-Highschol Speech & Debate Captain  
-- Top 16 National Speech & Debate Tournament (2024)  
+Peer Tutor — National Honor Society
+-Provided one-on-one academic support in English, writing, sciences, and math; emphasized confidence and critical thinking.
+  
 
  🔗 Let’s Connect!
 - LinkedIn: https://linkedin.com/in/torireisz
