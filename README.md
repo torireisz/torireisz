@@ -17,6 +17,7 @@ I enjoy combining technical skills with communication, leadership, and research-
 - Exploring how data informs real-world decision-making
 
 💼 Experience & Leadership
+
 Vice President of Novice Development — Northeastern Debate Society  
 - Lead weekly training sessions for 40+ first-year debaters  
 - Design curriculum on argument construction, logical warranting, and refutation  
@@ -26,7 +27,8 @@ President — Highschool Mental Health Awareness Club
 - Created weekly discussion spaces and campus initiatives focused on wellness  
 
 Peer Tutor — National Honor Society
--Provided one-on-one academic support in English, writing, sciences, and math; emphasized confidence and critical thinking.
+
+- Provided one-on-one academic support in English, writing, sciences, and math; emphasized confidence and critical thinking.
   
 
  🔗 Let’s Connect!
